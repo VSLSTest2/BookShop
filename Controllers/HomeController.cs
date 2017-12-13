@@ -11,10 +11,8 @@ namespace BookShop.Controllers
     {
         public IActionResult Index()
         {
-            //Modified for test2
-            //Modified for test
             return View();
-			//Added
+			//Test non VSLiveShare
         }
 
         public IActionResult Error()
