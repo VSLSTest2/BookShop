@@ -9,10 +9,10 @@ namespace BookShop.Controllers
 {
     public class HomeController : Controller
     {
+        //Made change for  testing
         public IActionResult Index()
         {
             return View();
-			//Added for testing
         }
 
         public IActionResult Error()
