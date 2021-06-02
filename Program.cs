@@ -15,7 +15,8 @@ namespace BookShop
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
-            //Test on 5/10/2019
+            //Test on 5/10/2019 @622newly commit change
+            //
         }
 
         public static IWebHost BuildWebHost(string[] args) =>
